@@ -1,0 +1,26 @@
+li {
+    list-style: none;
+}
+
+.card {
+    background-color: #223344;
+    color: white;
+}
+
+#city-history li {
+    background-color: #aaaaaa;
+    text-align: center;
+}
+
+#city-info {
+    border: 1px solid black;
+}
+
+header h1 {
+    background-image: linear-gradient(90deg, #3679df, #290050);
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
